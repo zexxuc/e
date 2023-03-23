@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+
+    /* width: 20px;
+    height: 20px;
+    margin: 20px;
+    padding: 20px;
+    font-size: 24px;
+
+    background-color: brown;
+    text-align: center;
+} */
+
+
+ 
+body{
+    background-color: bisque;
+}
+#q{
+    margin-top: 10px;
+}
+ 
+.q{
+    display: flex;
+    flex-wrap:wrap ;
+    font-family: 'Oswald', sans-serif;
+    justify-content: center;
+    border-bottom:20px solid darkred;
+    background-color: red;
+    color: white;
+
+}
+#w{
+    
+    height: 30px;
+    background-color: green;
+    color: white;
+    font-size: larger;
+    margin-top: 10px;
+    border: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+/* aside{
+    flex-basis: 50%;
+    height: 200px;
+    background-color: darkcyan;
+}
+section{
+    flex-basis: 25%;
+    height: 100px;
+    background-color: darkmagenta;
+}
+nav{
+    flex-basis: 25%;
+    background-color: forestgreen; */
+
+#y{
+    background-color: green;
+    color: white;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+table{
+    background-color: white;
+}
+.i{
+    color: gray;
+    text-decoration: underline;
+    margin-top: 10px;
+    
+    margin-bottom: 10px;
+}
+#n{
+    font-style: italic;
+}
+.x{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+body{
+    margin-left: 30px;
+}
+img{
+    width: 200px;
+}
+#p{
+    background-color: green;
+    color: white;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.k{
+    color: red;
+}
+table{
+    color: blue;
+}
